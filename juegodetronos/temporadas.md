@@ -16,4 +16,4 @@ temporada 6
 linea 1 (rama)
 
 
-linea 2 (master)
+temporada y
