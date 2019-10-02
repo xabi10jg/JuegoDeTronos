@@ -13,7 +13,7 @@ temporada 6
 
 
 
-linea 1 (rama)
+temporada x
 
 
 linea 2 (master)
